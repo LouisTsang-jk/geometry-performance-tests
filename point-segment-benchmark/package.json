@@ -1,0 +1,13 @@
+{
+  "name": "point-segment-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "benchmark.js",
+  "scripts": {
+    "test": "node benchmark.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
